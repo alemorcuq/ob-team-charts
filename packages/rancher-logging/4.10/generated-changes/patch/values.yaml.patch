@@ -195,7 +195,7 @@
 +    tag: v0.0.6
 +  fluentbit:
 +    repository: alemorcuq/fluent-bit
-+    tag: sles-test
++    tag: 3.1.8-rebuild.1
 +  nodeagent_fluentbit:
 +    os: "windows"
 +    repository: rancher/fluent-bit
@@ -205,7 +205,7 @@
 +    tag: 3.1.8-debug
 +  fluentd:
 +    repository: alemorcuq/fluentd
-+    tag: sles-test
++    tag: v1.16-4.10-full-rebuild.1
 +
 +additionalLoggingSources:
 +  rke:
