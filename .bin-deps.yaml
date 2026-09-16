@@ -1,6 +1,6 @@
 tools:
   - name: charts-build-scripts
-    version: latest
+    version: v1.9.31
     source: rancher/charts-build-scripts
     mode: release-checksums
 
